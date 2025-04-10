@@ -1,9 +1,117 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.10">
   <diagram name="Page-1" id="1JgWUqxmKH6Lr9luI0XZ">
-    <mxGraphModel>
+    <mxGraphModel dx="2147" dy="679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="rB1gCbnYp8gds8URJbLB-2" value="状态 1：被“小我”/焦虑融合所控制 (State 1: Controlled by &quot;Small Self&quot;/Anxiety Fusion)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;verticalLabelPosition=bottom;verticalAlign=top;align=center;fontSize=14;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="110" width="450" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="rB1gCbnYp8gds8URJbLB-3" value="状态 2：用“本我”/觉知来观察 (State 2: Observing with &quot;True Self&quot;/Awareness)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalLabelPosition=bottom;verticalAlign=top;align=center;fontSize=14;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="110" width="450" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="rB1gCbnYp8gds8URJbLB-4" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;gradientColor=#ffffff;gradientDirection=north;opacity=80;" vertex="1" parent="1">
+          <mxGeometry x="105" y="200" width="220" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="rB1gCbnYp8gds8URJbLB-5" value="心智与焦虑内容&lt;br&gt;完全认同/融合" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontStyle=2;fontColor=#660000;" vertex="1" parent="1">
+          <mxGeometry x="135" y="160" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rB1gCbnYp8gds8URJbLB-6" value="万一失败怎么办？" style="shape=cloud;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#b85450;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="130" y="230" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rB1gCbnYp8gds8URJbLB-7" value="恐惧!" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ff8080;strokeColor=#b85450;fontSize=10;fontStyle=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="210" y="270" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rB1gCbnYp8gds8URJbLB-8" value="心悸" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=9;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="150" y="300" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rB1gCbnYp8gds8URJbLB-9" value="胸闷" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=9;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="200" y="340" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rB1gCbnYp8gds8URJbLB-10" value="他们肯定讨厌我" style="shape=cloud;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#b85450;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="160" y="205" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rB1gCbnYp8gds8URJbLB-11" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;gradientColor=#ffffff;gradientDirection=north;opacity=80;" vertex="1" parent="1">
+          <mxGeometry x="725" y="200" width="220" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="rB1gCbnYp8gds8URJbLB-12" value="万一失败怎么办？" style="shape=cloud;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#b85450;fontSize=10;opacity=70;" vertex="1" parent="1">
+          <mxGeometry x="750" y="230" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rB1gCbnYp8gds8URJbLB-13" value="恐惧" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ff8080;strokeColor=#b85450;fontSize=10;fontStyle=1;fontColor=#FFFFFF;opacity=70;" vertex="1" parent="1">
+          <mxGeometry x="830" y="270" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rB1gCbnYp8gds8URJbLB-14" value="心悸" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=9;fillColor=#f8cecc;strokeColor=#b85450;opacity=70;" vertex="1" parent="1">
+          <mxGeometry x="770" y="300" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rB1gCbnYp8gds8URJbLB-15" value="胸闷" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=9;fillColor=#f8cecc;strokeColor=#b85450;opacity=70;" vertex="1" parent="1">
+          <mxGeometry x="820" y="340" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rB1gCbnYp8gds8URJbLB-16" value="他们肯定讨厌我" style="shape=cloud;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#b85450;fontSize=10;opacity=70;" vertex="1" parent="1">
+          <mxGeometry x="780" y="205" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rB1gCbnYp8gds8URJbLB-17" value="观察性觉知&lt;br&gt;(本我功能)" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#cdeb8b;strokeColor=#36393d;fontSize=11;fontStyle=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="630" y="280" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="rB1gCbnYp8gds8URJbLB-18" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;strokeColor=#0000FF;endFill=1;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="rB1gCbnYp8gds8URJbLB-17" target="rB1gCbnYp8gds8URJbLB-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="710" y="320" as="sourcePoint" />
+            <mxPoint x="760" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rB1gCbnYp8gds8URJbLB-19" value="觉知的空间&lt;br&gt;允许存在" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontStyle=2;fontColor=#0000FF;" vertex="1" parent="1">
+          <mxGeometry x="765" y="160" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rB1gCbnYp8gds8URJbLB-20" value="想法只是想法" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;fontColor=#003366;" vertex="1" parent="1">
+          <mxGeometry x="880" y="240" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="rB1gCbnYp8gds8URJbLB-21" value="情绪被允许" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;fontColor=#003366;" vertex="1" parent="1">
+          <mxGeometry x="890" y="290" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="rB1gCbnYp8gds8URJbLB-22" value="感觉被觉察" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;fontColor=#003366;" vertex="1" parent="1">
+          <mxGeometry x="880" y="350" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="rB1gCbnYp8gds8URJbLB-23" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="rB1gCbnYp8gds8URJbLB-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="215" y="420" as="sourcePoint" />
+            <mxPoint x="215" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rB1gCbnYp8gds8URJbLB-24" value="自动反应 / 回避行为&lt;br&gt;(争吵, 拖延, 逃避...)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="115" y="460" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rB1gCbnYp8gds8URJbLB-25" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="rB1gCbnYp8gds8URJbLB-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="835" y="420" as="sourcePoint" />
+            <mxPoint x="835" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rB1gCbnYp8gds8URJbLB-26" value="有意识的回应 / 选择&lt;br&gt;(暂停, 沟通, 按价值观行动...)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="735" y="460" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rB1gCbnYp8gds8URJbLB-27" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=3;strokeColor=#009900;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rB1gCbnYp8gds8URJbLB-2" target="rB1gCbnYp8gds8URJbLB-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="335" as="sourcePoint" />
+            <mxPoint x="610" y="335" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rB1gCbnYp8gds8URJbLB-28" value="正念练习 (Mindfulness Practice)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1;fontColor=#006600;" vertex="1" parent="1">
+          <mxGeometry x="450" y="300" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rB1gCbnYp8gds8URJbLB-29" value="&lt;b&gt;关键要素:&lt;/b&gt;&lt;br&gt;- 专注呼吸/锚点&lt;br&gt;- 觉察念头/情绪/感觉&lt;br&gt;- 不加评判&lt;br&gt;- 接纳/允许&lt;br&gt;- 温柔带回注意力&lt;br&gt;- 培养觉知" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#e6f0d8;strokeColor=#548235;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="450" y="360" width="150" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="rB1gCbnYp8gds8URJbLB-30" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;正念与焦虑：从被“小我”控制到用“本我/觉知”观察&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="20" width="570" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rB1gCbnYp8gds8URJbLB-31" value="总结: 正念帮助我们从‘我是焦虑’转变为‘我注意到焦虑的感觉’，从而改变与焦虑的关系。" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontStyle=2;" vertex="1" parent="1">
+          <mxGeometry x="190" y="600" width="670" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rB1gCbnYp8gds8URJbLB-32" value="在此状态下，焦虑的想法和感觉主导了意识，个体感觉被它们控制，并自动做出反应。" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="525" width="410" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rB1gCbnYp8gds8URJbLB-33" value="在此状态下，个体能够意识到焦虑的想法、情绪和感觉，但不与之认同。觉知创造了空间，允许更平静、更明智的回应。" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="630" y="525" width="410" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
