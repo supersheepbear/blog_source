@@ -1,0 +1,122 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1200">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a1a2e"/>
+      <stop offset="100%" style="stop-color:#16213e"/>
+    </linearGradient>
+    <linearGradient id="book1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#ff6b6b"/>
+      <stop offset="100%" style="stop-color:#ee5a5a"/>
+    </linearGradient>
+    <linearGradient id="book2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#4ecdc4"/>
+      <stop offset="100%" style="stop-color:#44a08d"/>
+    </linearGradient>
+    <linearGradient id="book3" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#a855f7"/>
+      <stop offset="100%" style="stop-color:#7c3aed"/>
+    </linearGradient>
+    <linearGradient id="book4" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#f59e0b"/>
+      <stop offset="100%" style="stop-color:#d97706"/>
+    </linearGradient>
+    <linearGradient id="book5" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#3b82f6"/>
+      <stop offset="100%" style="stop-color:#2563eb"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="3" dy="3" stdDeviation="5" flood-opacity="0.3"/>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="800" height="1200" fill="url(#bgGrad)"/>
+
+  <!-- Decorative circles -->
+  <circle cx="700" cy="100" r="80" fill="#ff6b6b" opacity="0.1"/>
+  <circle cx="50" cy="400" r="60" fill="#4ecdc4" opacity="0.1"/>
+  <circle cx="750" cy="800" r="100" fill="#a855f7" opacity="0.1"/>
+
+  <!-- Title -->
+  <text x="400" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="32" font-weight="bold" fill="#ffffff">📚 5 Books That Will Make You</text>
+  <text x="400" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="36" font-weight="bold" fill="#ffd700">Smarter Than 98% of People</text>
+
+  <!-- Brain icon -->
+  <text x="400" y="150" text-anchor="middle" font-size="40">🧠</text>
+
+  <!-- Book 1: Thinking Fast and Slow -->
+  <g filter="url(#shadow)">
+    <rect x="40" y="180" width="720" height="170" rx="15" fill="#252545"/>
+    <rect x="40" y="180" width="8" height="170" rx="4" fill="url(#book1)"/>
+    <circle cx="90" cy="220" r="25" fill="url(#book1)"/>
+    <text x="90" y="228" text-anchor="middle" font-family="Arial" font-size="24" font-weight="bold" fill="#fff">1</text>
+    <text x="130" y="215" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#ff6b6b">Thinking Fast and Slow</text>
+    <text x="130" y="240" font-family="Arial, sans-serif" font-size="14" fill="#888">Daniel Kahneman</text>
+    <text x="60" y="275" font-family="Arial, sans-serif" font-size="13" fill="#ccc">核心观点：认识认知偏见，让思维更客观</text>
+    <text x="60" y="300" font-family="Arial, sans-serif" font-size="12" fill="#999">• 锚定效应 - 过度依赖第一印象</text>
+    <text x="60" y="320" font-family="Arial, sans-serif" font-size="12" fill="#999">• 损失厌恶 - 失去的痛苦大于获得的快乐</text>
+    <text x="400" y="300" font-family="Arial, sans-serif" font-size="12" fill="#999">• 确认偏见 - 只听自己想听的</text>
+    <text x="400" y="320" font-family="Arial, sans-serif" font-size="12" fill="#999">• 沉没成本 - 因为投入太多而不愿放弃</text>
+  </g>
+
+  <!-- Book 2: Psychology Textbook + Stumbling on Happiness -->
+  <g filter="url(#shadow)">
+    <rect x="40" y="365" width="720" height="150" rx="15" fill="#252545"/>
+    <rect x="40" y="365" width="8" height="150" rx="4" fill="url(#book2)"/>
+    <circle cx="90" cy="405" r="25" fill="url(#book2)"/>
+    <text x="90" y="413" text-anchor="middle" font-family="Arial" font-size="24" font-weight="bold" fill="#fff">2</text>
+    <text x="130" y="400" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#4ecdc4">Psychology (5th Ed) + Stumbling on Happiness</text>
+    <text x="130" y="425" font-family="Arial, sans-serif" font-size="14" fill="#888">Daniel Gilbert</text>
+    <text x="60" y="460" font-family="Arial, sans-serif" font-size="13" fill="#ccc">核心观点：回归第一手资料，理解大脑如何欺骗你</text>
+    <text x="60" y="485" font-family="Arial, sans-serif" font-size="12" fill="#999">• 记忆不可靠 - 你的记忆反映的是现在的你，而非过去的事实</text>
+    <text x="60" y="505" font-family="Arial, sans-serif" font-size="12" fill="#999">• 大脑会自动填充信息 - 目击证词常被法庭否决</text>
+  </g>
+
+  <!-- Book 3: The Untethered Soul -->
+  <g filter="url(#shadow)">
+    <rect x="40" y="530" width="720" height="150" rx="15" fill="#252545"/>
+    <rect x="40" y="530" width="8" height="150" rx="4" fill="url(#book3)"/>
+    <circle cx="90" cy="570" r="25" fill="url(#book3)"/>
+    <text x="90" y="578" text-anchor="middle" font-family="Arial" font-size="24" font-weight="bold" fill="#fff">3</text>
+    <text x="130" y="565" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#a855f7">The Untethered Soul</text>
+    <text x="130" y="590" font-family="Arial, sans-serif" font-size="14" fill="#888">Michael Singer</text>
+    <text x="60" y="625" font-family="Arial, sans-serif" font-size="13" fill="#ccc">核心观点：你不是你的想法，你是听到想法的那个人</text>
+    <text x="60" y="650" font-family="Arial, sans-serif" font-size="12" fill="#999">• 内心室友 - 学会与脑中的声音和平共处</text>
+    <text x="60" y="670" font-family="Arial, sans-serif" font-size="12" fill="#999">• 臣服与放手 - 不执着于结果，反而能突破</text>
+  </g>
+
+  <!-- Book 4: The Righteous Mind -->
+  <g filter="url(#shadow)">
+    <rect x="40" y="695" width="720" height="160" rx="15" fill="#252545"/>
+    <rect x="40" y="695" width="8" height="160" rx="4" fill="url(#book4)"/>
+    <circle cx="90" cy="735" r="25" fill="url(#book4)"/>
+    <text x="90" y="743" text-anchor="middle" font-family="Arial" font-size="24" font-weight="bold" fill="#fff">4</text>
+    <text x="130" y="730" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#f59e0b">The Righteous Mind</text>
+    <text x="130" y="755" font-family="Arial, sans-serif" font-size="14" fill="#888">Jonathan Haidt</text>
+    <text x="60" y="790" font-family="Arial, sans-serif" font-size="13" fill="#ccc">核心观点：理解为什么聪明人会相信"愚蠢"的事</text>
+    <text x="60" y="815" font-family="Arial, sans-serif" font-size="12" fill="#999">• 道德味蕾：关怀、自由、公平、忠诚、权威、圣洁</text>
+    <text x="60" y="835" font-family="Arial, sans-serif" font-size="12" fill="#999">• 道德推理多是事后合理化 - 先判断，后找理由</text>
+  </g>
+
+  <!-- Book 5: The Lessons of History -->
+  <g filter="url(#shadow)">
+    <rect x="40" y="870" width="720" height="160" rx="15" fill="#252545"/>
+    <rect x="40" y="870" width="8" height="160" rx="4" fill="url(#book5)"/>
+    <circle cx="90" cy="910" r="25" fill="url(#book5)"/>
+    <text x="90" y="918" text-anchor="middle" font-family="Arial" font-size="24" font-weight="bold" fill="#fff">5</text>
+    <text x="130" y="905" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#3b82f6">The Lessons of History</text>
+    <text x="130" y="930" font-family="Arial, sans-serif" font-size="14" fill="#888">Will &amp; Ariel Durant</text>
+    <text x="60" y="965" font-family="Arial, sans-serif" font-size="13" fill="#ccc">核心观点：100页浓缩5000年历史智慧</text>
+    <text x="60" y="990" font-family="Arial, sans-serif" font-size="12" fill="#999">• 历史唯一的教训：人类不会从历史中学习</text>
+    <text x="60" y="1010" font-family="Arial, sans-serif" font-size="12" fill="#999">• 竞争与合作的周期循环 • 战争是常态，和平是例外</text>
+  </g>
+
+  <!-- Summary Box -->
+  <rect x="40" y="1050" width="720" height="70" rx="10" fill="#1e3a5f" opacity="0.8"/>
+  <text x="400" y="1080" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#ffd700">💡 核心洞见</text>
+  <text x="400" y="1105" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#ccc">认识认知偏见 → 理解大脑运作 → 觉察内心声音 → 理解道德分歧 → 从历史中学习</text>
+
+  <!-- Footer -->
+  <text x="400" y="1150" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#666">来源: Clark Kegley YouTube · 读5本非虚构书籍，你就超越70%的人</text>
+  <text x="400" y="1175" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#555">Stop Settling. Start Living. ✨</text>
+</svg>
